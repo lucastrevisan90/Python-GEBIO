@@ -1,9 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 10 13:12:52 2019
-
-@author: lucas
-"""
+##ATENÇÂO##
+#Código retirado de https://morioh.com/p/5a6e15d2cb53/a-real-python-cheat-sheet-for-beginners
+#publicado orinalmente em https://learnxinyminutes.com
 
 # Single line comments start with a number symbol.
 
