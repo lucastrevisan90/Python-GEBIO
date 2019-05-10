@@ -1,6 +1,6 @@
-##ATENÇÂO##
+##ATENÇÃO##
 #Código retirado de https://morioh.com/p/5a6e15d2cb53/a-real-python-cheat-sheet-for-beginners
-#publicado orinalmente em https://learnxinyminutes.com
+#publicado originalmente por https://learnxinyminutes.com
 
 # Single line comments start with a number symbol.
 
